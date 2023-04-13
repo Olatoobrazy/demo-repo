@@ -1,0 +1,28 @@
+body {
+  background-color: aqua;
+}
+.menubar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: palegreen;
+}
+.menuitems a {
+  margin-right: 50px;
+}
+.menuitems a {
+  margin-right: 50px;
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+.hero {
+  background-image: url(image/coffe.png.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 120px;
+}
